@@ -36,7 +36,7 @@ sudo apt install libpci-dev -y
 
 ## Installation (cmake)
 ```
-git clone https://github.com/olealgoritme/gddr6
+git clone https://github.com/LuosjDD/gddr6x
 cd gddr6
 ./build_install.sh
 sudo gddr6
@@ -44,12 +44,15 @@ sudo gddr6
 
 ## Supported GPUs
 - RTX 4090 (AD102)
+- RTX 4090 D (AD102)
 - RTX 4080 Super (AD103)
 - RTX 4080 (AD103)
 - RTX 4070 Ti Super (AD103)
+- RTX 4070 Ti Super (AD102)
 - RTX 4070 Ti (AD104)
 - RTX 4070 Super (AD104)
 - RTX 4070 (AD104)
+- RTX 4070 (AD103)
 - RTX 3090 Ti (GA102)
 - RTX 3090 (GA102)
 - RTX 3080 Ti (GA102)
